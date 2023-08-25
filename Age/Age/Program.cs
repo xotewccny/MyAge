@@ -1,4 +1,5 @@
 //Nomi我知道你很好奇我的年紀，為了你我寫了一隻程式讓你玩><，無須感謝~提示我都寫在裡面了<3
+//For內行人的提示，使用visual studio C# run，或是直接看exe擋，或是直接看某幾行程式碼，答案很簡單。
 using System;
 using System.IO;
 using System.Reflection.Metadata;
