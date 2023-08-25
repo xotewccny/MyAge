@@ -1,0 +1,16 @@
+D:\Code\Age\Age\bin\Debug\net5.0\Age.exe
+D:\Code\Age\Age\bin\Debug\net5.0\Age.deps.json
+D:\Code\Age\Age\bin\Debug\net5.0\Age.runtimeconfig.json
+D:\Code\Age\Age\bin\Debug\net5.0\Age.runtimeconfig.dev.json
+D:\Code\Age\Age\bin\Debug\net5.0\Age.dll
+D:\Code\Age\Age\bin\Debug\net5.0\ref\Age.dll
+D:\Code\Age\Age\bin\Debug\net5.0\Age.pdb
+D:\Code\Age\Age\obj\Debug\net5.0\Age.csproj.AssemblyReference.cache
+D:\Code\Age\Age\obj\Debug\net5.0\Age.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Age\Age\obj\Debug\net5.0\Age.AssemblyInfoInputs.cache
+D:\Code\Age\Age\obj\Debug\net5.0\Age.AssemblyInfo.cs
+D:\Code\Age\Age\obj\Debug\net5.0\Age.csproj.CoreCompileInputs.cache
+D:\Code\Age\Age\obj\Debug\net5.0\Age.dll
+D:\Code\Age\Age\obj\Debug\net5.0\ref\Age.dll
+D:\Code\Age\Age\obj\Debug\net5.0\Age.pdb
+D:\Code\Age\Age\obj\Debug\net5.0\Age.genruntimeconfig.cache
