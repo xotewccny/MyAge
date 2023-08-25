@@ -1,4 +1,5 @@
-﻿using System;
+//Nomi我知道你很好奇我的年紀，為了你我寫了一隻程式讓你玩><，無須感謝~提示我都寫在裡面了<3
+using System;
 using System.IO;
 using System.Reflection.Metadata;
 using System.Security.Cryptography;
